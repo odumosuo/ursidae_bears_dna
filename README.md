@@ -11,7 +11,7 @@ BOLD
 NCBI  
 k-means  
 Hierachical clustering  
-PCA 
+PCA   
 t-SNE  
 Rondom Forest  
 Gradient Boosted Classifier  
