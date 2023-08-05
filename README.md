@@ -7,7 +7,7 @@ I (COI) for our analyses, as it has been shown to be effective in the global bio
 animals
 
 ## Features
-BOLD
+BOLD  
 NCBI  
 k-means  
 Hierachical clustering  
