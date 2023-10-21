@@ -5,6 +5,9 @@ This project explores the distribution and species richness of Ursidae. It uses 
 I (COI) for our analyses, as it has been shown to be effective in the global bio identification system for
 animals.
 
+## Report
+Supervised_machine_learning_report.pdf
+
 ## Features
 BOLD  
 NCBI  
